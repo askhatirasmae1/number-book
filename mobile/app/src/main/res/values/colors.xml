@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary -->
+    <color name="primary">#2563EB</color>
+    <color name="primary_dark">#1D4ED8</color>
+    <color name="primary_light">#EFF6FF</color>
+    <color name="primary_container">#DBEAFE</color>
+
+    <!-- Surface -->
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+
+    <!-- Text -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_hint">#94A3B8</color>
+
+    <!-- Accent colors for avatars -->
+    <color name="avatar_blue">#2563EB</color>
+    <color name="avatar_green">#059669</color>
+    <color name="avatar_orange">#D97706</color>
+    <color name="avatar_purple">#7C3AED</color>
+    <color name="avatar_red">#DC2626</color>
+
+    <!-- Status -->
+    <color name="success">#059669</color>
+    <color name="success_bg">#D1FAE5</color>
+    <color name="danger">#DC2626</color>
+    <color name="danger_bg">#FEE2E2</color>
+    <color name="warning">#D97706</color>
+    <color name="warning_bg">#FEF3C7</color>
+
+    <!-- Border -->
+    <color name="border">#E2E8F0</color>
+    <color name="divider">#F1F5F9</color>
+
+    <!-- Standard -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>

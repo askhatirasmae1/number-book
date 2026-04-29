@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Number Book</string>
+    <string name="login_title">Connexion</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="contacts">Contacts</string>
+    <string name="favorites">Favoris</string>
+    <string name="search_hint">Rechercher nom, téléphone…</string>
+    <string name="all_groups">Tous les groupes</string>
+    <string name="no_contact">Aucun contact trouvé</string>
+    <string name="no_favorite">Aucun favori enregistré</string>
+    <string name="btn_call">Appeler</string>
+    <string name="btn_copy">Copier le numéro</string>
+    <string name="btn_email">Envoyer un email</string>
+    <string name="btn_add_fav">Ajouter aux favoris</string>
+    <string name="btn_remove_fav">Retirer des favoris</string>
+    <string name="logout">Déconnexion</string>
+</resources>
