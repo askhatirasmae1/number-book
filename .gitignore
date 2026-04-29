@@ -1,5 +1,9 @@
-mobile/ 
+
 node_modules/ 
 .env 
 dist/ 
 build/ 
+mobile/.gradle/ 
+mobile/build/ 
+mobile/app/build/ 
+mobile/.idea/ 
